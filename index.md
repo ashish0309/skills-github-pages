@@ -9,5 +9,9 @@ title: Welcome to my blog
 function hello($name) {
     return "Hello, $name!";
 }
+
+function nothello($name) {
+    return "Hello, $name!";
+}
 ```
 
