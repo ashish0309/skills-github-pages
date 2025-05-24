@@ -14,4 +14,3 @@ function nothello($name) {
     return "Hello, $name!";
 }
 ```
-
